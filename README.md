@@ -1,6 +1,6 @@
 # sauercrowd DAO
 
-![sauercrowdDao](.resources/logo.path)
+![sauercrowdDao](./resources/logo.path)
 
 sauercrowd is the first crowdfunding Investment DAO for European Startups and SMEs. The DAO runs as a parachain inside the Polkadot environment, using Parity Substrate and WASM. The boilerplate code is forged from https://github.com/paritytech/substrate.
 
